@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FlipkartAutomationSuite" verbose="1">
+    <test name="FlipkartTest" preserve-order="true">
+        <classes>
+            <class name="tests.FlipkartTest">
+                <methods>
+                    <include name="testNavigateToFlipkart"/>
+                    <include name="testSearchProduct"/>
+                    <include name="testClickFirstProduct"/>
+                    <include name="testVerifyProductPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

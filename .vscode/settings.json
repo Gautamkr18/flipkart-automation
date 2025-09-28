@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.test.defaultConfig": "testng",
+    "testng.xml": "src/test/resources/testng.xml"
+}
