@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlipkartAutomationSuite]" verbose="0">
+  <test thread-count="5" name="FlipkartTest(failed)" verbose="0">
+    <classes>
+      <class name="tests.FlipkartTest">
+        <methods>
+          <include name="testSearchProduct"/>
+          <include name="setUp"/>
+          <include name="testClickFirstProduct"/>
+          <include name="testVerifyProductPage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.FlipkartTest -->
+    </classes>
+  </test> <!-- FlipkartTest(failed) -->
+</suite> <!-- Failed suite [FlipkartAutomationSuite] -->
