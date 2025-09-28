@@ -301,7 +301,11 @@ This automation project successfully demonstrates:
 **Framework**: Selenium WebDriver with Java
 **Approach**: Data-driven, configuration-based testing
 
+
+## 📺 Demo Video
+🎥 [Click here to watch the automation demo](https://drive.google.com/file/d/17ZrOyGpwjespbtlI41k5xITkqqBk0Jdi/view?usp=drivesdk)
+
 ---
 
-*Last Updated: September 2024*
-*Author: Automation Testing Team*
+*Last Updated: September 2025*
+*Author: Gautam Gupta*
