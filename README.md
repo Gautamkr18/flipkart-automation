@@ -303,5 +303,5 @@ This automation project successfully demonstrates:
 
 ---
 
-*Last Updated: September 2024*
-*Author: Automation Testing Team*
+*Last Updated: September 2025*
+*Author: Gautam Gupta*
