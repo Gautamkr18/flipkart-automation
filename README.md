@@ -311,5 +311,4 @@ This automation project successfully demonstrates:
 <<<<<<< HEAD
 *Author: Gautam Gupta*
 =======
-*Author: Gautam Gupta*
->>>>>>> f68f62405b63bfdd1ddfcb51db4463ea15713b94
+
