@@ -303,12 +303,11 @@ This automation project successfully demonstrates:
 
 
 ## 📺 Demo Video
-🎥 [Click here to watch the automation demo](https://drive.google.com/file/d/17ZrOyGpwjespbtlI41k5xITkqqBk0Jdi/view?usp=drivesdk)
+🎥 [Click here to watch the automation demo](https://drive.google.com/file/d/11N34n_ltQqfSt6fYYd2kIwZxbytnlwX7/view?usp=drivesdk)
 
 ---
 
 *Last Updated: September 2025*
-<<<<<<< HEAD
 *Author: Gautam Gupta*
 =======
 
