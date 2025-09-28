@@ -168,12 +168,10 @@ public class WorkingFlipkartTest {
                     } else {
                         System.out.println("⚠️ Product " + (i+1) + " click didn't navigate to product page");
                         // Try next product
-                        continue;
                     }
                     
                 } catch (Exception e) {
                     System.out.println("⚠️ Error with product " + (i+1) + ": " + e.getMessage());
-                    continue;
                 }
             }
             
